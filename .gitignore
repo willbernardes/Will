@@ -1,0 +1,19 @@
+# MCP Servers
+mcp-servers/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
